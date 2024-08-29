@@ -1,0 +1,24 @@
+body{
+    background:#d1d1f3;
+
+}
+      
+h1{
+    color: rgb(255, 255, 255);
+     text-align: center;
+     font-family: "comic sans ms";
+     letter-spacing:5px;
+     text-align:center;
+     text-shadow: 0 0 0.3em;
+
+}
+
+.foto{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.foto img{
+    mix-blend-mode: darken;
+    width: 400px;
+}
